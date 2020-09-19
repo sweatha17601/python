@@ -1,2 +1,0 @@
-# python
-developed by sweatha
